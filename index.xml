@@ -24,12 +24,36 @@ Phiên bản này mang lại cú pháp hiện đại, tối ưu hiệu năng, v�
       <link>https://thuthuy-cutei.github.io/posts/javascript-can-ban/</link>
       <pubDate>Mon, 27 Oct 2025 10:30:00 +0700</pubDate>
       <guid>https://thuthuy-cutei.github.io/posts/javascript-can-ban/</guid>
-      <description>&lt;h1 align=&#34;center&#34; style=&#34;color:#f57c00; font-size:2.4rem; font-weight:800; text-shadow:1px 1px 4px rgba(0,0,0,0.1);&#34;&gt; ✨ Kiến thức cơ bản về JavaScript &lt;/h1&gt;
-🧩 Giới thiệu
-JavaScript (JS) là ngôn ngữ lập trình phổ biến nhất cho web hiện đại.
-Nếu HTML giúp tạo cấu trúc và CSS giúp định dạng giao diện, thì JavaScript chính là ngôn ngữ mang lại tính năng động,tương tác cho trang web.
+      <description>&lt;h1 align=&#34;center&#34; style=&#34;color:#f57c00; font-size:2.4rem; font-weight:800; text-shadow:1px 1px 4px rgba(0,0,0,0.1);&#34;&gt;
+✨ Kiến thức cơ bản về JavaScript
+&lt;/h1&gt;
+&lt;h2 id=&#34;-giới-thiệu&#34;&gt;🧩 Giới thiệu&lt;/h2&gt;
+&lt;p&gt;JavaScript (JS) là ngôn ngữ lập trình phổ biến nhất cho web hiện đại.&lt;br&gt;
+Nếu &lt;strong&gt;HTML&lt;/strong&gt; giúp tạo cấu trúc và &lt;strong&gt;CSS&lt;/strong&gt; giúp định dạng giao diện, thì &lt;strong&gt;JavaScript&lt;/strong&gt; chính là ngôn ngữ mang lại tính năng &lt;strong&gt;động, tương tác&lt;/strong&gt; cho trang web.&lt;/p&gt;
 &lt;p&gt;JavaScript có thể:&lt;/p&gt;
-&lt;p&gt;Thay đổi nội dung và kiểu dáng của HTML, CSS.&lt;/p&gt;</description>
+&lt;ul&gt;
+&lt;li&gt;Thay đổi nội dung và kiểu dáng của HTML, CSS.&lt;/li&gt;
+&lt;li&gt;Phản hồi các hành động của người dùng (click, nhập liệu, cuộn trang, v.v.).&lt;/li&gt;
+&lt;li&gt;Tương tác với server thông qua API.&lt;/li&gt;
+&lt;li&gt;Xây dựng ứng dụng web, mobile, desktop (với Node.js, React, Electron&amp;hellip;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;background: linear-gradient(135deg, #fff3e0, #ffe0b2); padding: 16px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align:center; margin: 30px 0;&#34;&gt;
+  &lt;h2 style=&#34;color:#e65100; font-weight:800; font-size:1.8rem; margin-bottom:12px;&#34;&gt;
+    🎥 Video minh họa học JavaScript cơ bản
+  &lt;/h2&gt;
+  &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 10px;&#34;&gt;
+    &lt;iframe 
+        src=&#34;https://www.youtube.com/embed/0LX_B3-0XuU?list=PL33lvabfss1yGrOutFR03OZoqm91TSsvs&#34;
+        title=&#34;Video hướng dẫn JavaScript cơ bản&#34;
+        style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;&#34;
+        allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34;
+        allowfullscreen&gt;
+    &lt;/iframe&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-cấu-trúc-một-chương-trình-javascript&#34;&gt;🔹 Cấu trúc một chương trình JavaScript&lt;/h2&gt;
+&lt;p&gt;Một chương trình JS thường được viết trong thẻ &lt;code&gt;&amp;lt;script&amp;gt;&lt;/code&gt; hoặc trong file &lt;code&gt;.js&lt;/code&gt; riêng.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java Stream API – Xử lý dữ liệu hiện đại</title>
