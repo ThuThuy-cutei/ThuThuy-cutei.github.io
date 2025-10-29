@@ -152,12 +152,12 @@ Nó được phát triển bởi &lt;strong&gt;Sun Microsystems&lt;/strong&gt; (
 &lt;div class=&#34;hero-avatar-group&#34;&gt;
 &lt;!-- CẬP NHẬT: AVATAR CHÍNH CÓ WIDTH/HEIGHT 160px ĐỂ CÂN ĐỐI VỚI TRANG CHỦ --&gt;
 &lt;div class=&#34;hero-content-markdown&#34;&gt;
-&lt;img src=&#34;https://thuthuy-cutei.github.io/images/avatar.jpg&#34; alt=&#34;Ảnh đại diện chính của Thu Thủy&#34; width=&#34;200&#34; height=&#34;200&#34; style=&#34;border-radius: 10x; border: 6px solid #f06292; box-shadow: 0 4px 15px rgba(0,0,0,0.1);&#34;&gt;
+&lt;img src=&#34;./images/avatar.jpg&#34; alt=&#34;Ảnh đại diện chính của Thu Thủy&#34; width=&#34;200&#34; height=&#34;200&#34; style=&#34;border-radius: 10x; border: 6px solid #f06292; box-shadow: 0 4px 15px rgba(0,0,0,0.1);&#34;&gt;
 &lt;/div&gt;
 &lt;!-- AVATAR PHỤ (Mặc dù không có avatar2.jpg, ta vẫn giữ lại cấu trúc để có thể thêm sau) --&gt;
 &lt;!-- Nếu bạn chỉ dùng 1 avatar, hãy xóa khối div dưới đây để căn giữa tốt hơn --&gt;
 &lt;!-- &lt;div class=&#34;hero-content-markdown&#34;&gt;
-    &lt;img src=&#34;https://thuthuy-cutei.github.io/static/images/avatar2.jpg&#34; alt=&#34;Ảnh đại diện phụ của Thu Thủy&#34; width=&#34;160&#34; height=&#34;160&#34; style=&#34;border-radius: 20px; border: 6px solid #42a5f5; box-shadow: 0 4px 15px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;img src=&#34;./static/images/avatar2.jpg&#34; alt=&#34;Ảnh đại diện phụ của Thu Thủy&#34; width=&#34;160&#34; height=&#34;160&#34; style=&#34;border-radius: 20px; border: 6px solid #42a5f5; box-shadow: 0 4px 15px rgba(0,0,0,0.1);&#34;&gt;
 &lt;/div&gt; --&gt;
 &lt;/div&gt;
 &lt;p&gt;👋 Xin chào, mình là Vũ Thị Thu Thủy&lt;/p&gt;</description>
