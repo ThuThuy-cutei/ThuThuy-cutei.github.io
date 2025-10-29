@@ -11,7 +11,7 @@
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     
-    <link rel="stylesheet" href="../../css/main.css">
+    <link rel="stylesheet" href="../../css/main.css"> 
 </head>
 <body>
     
@@ -21,15 +21,12 @@
         </h1>
         <nav>
             <ul>
-                
                 <li>
                     <a href="../../" >Trang chủ</a>
                 </li>
-                
                 <li>
                     <a href="../../about/" >Giới thiệu</a>
                 </li>
-                
                 <li>
                     <a href="../../posts/" class="active">Bài viết</a>
                 </li>
@@ -41,7 +38,17 @@
         <section class="profile-page single-content"> 
             
             <div class="content">
-                <h1 align="center" style="color:#d32f2f; font-size:2.4rem; font-weight:800; text-shadow:1px 1px 4px rgba(0,0,0,0.1);">
+                <article class="post-article">
+                    <header>
+                        <h1 class="post-title"></h1>
+                        <div class="post-meta">
+                            <span class="meta-date"><i class="far fa-calendar-alt"></i> January 1, 0001</span>
+                            <span class="meta-author"><i class="fas fa-user"></i> Vũ Thị Thu Thủy</span>
+                            <span class="meta-reading-time"><i class="far fa-clock"></i> 2 phút đọc</span>
+                        </div>
+                    </header>
+                    <div class="post-body">
+                        <h1 align="center" style="color:#d32f2f; font-size:2.4rem; font-weight:800; text-shadow:1px 1px 4px rgba(0,0,0,0.1);">
 ⚡ Async/Await – Viết code bất đồng bộ như đồng bộ
 </h1>
 <p>Lập trình bất đồng bộ (asynchronous) là khái niệm quan trọng trong JavaScript. Nó giúp code không bị &ldquo;đơ&rdquo; khi chờ các tác vụ tốn thời gian như tải dữ liệu, đọc file hay truy cập API.</p>
@@ -90,6 +97,12 @@ console.log(&ldquo;5. Code tiếp theo chạy ngay lập tức.&rdquo;);</p>
 try {
 const response = await fetch(url);</p>
 
+                    </div>
+                    <footer>
+                        
+                    </footer>
+                </article>
+                
             </div>
         </section>
     </main>
